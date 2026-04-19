@@ -1,0 +1,25 @@
+/*
+Theme Name: Bloom
+Theme URI: https://example.com/bloom
+Author: Bloom Themes
+Author URI: https://example.com
+Description: Bloom is a premium lifestyle blog theme designed for female fashion, travel, food, and wellness bloggers. Features a soft pastel palette, editorial magazine layout, Gutenberg block system, WooCommerce support, and full Customizer control.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: bloom
+Tags: blog, lifestyle, fashion, travel, food, feminine, pastel, clean, minimal, editorial, gutenberg, woocommerce, portfolio, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, sticky-post, threaded-comments, translation-ready, block-patterns, wide-blocks
+
+Bloom WordPress Theme, Copyright 2024 Bloom Themes
+Bloom is distributed under the terms of the GNU GPL
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+This file serves as the theme stylesheet entry point.
+All component styles are loaded via functions.php.
+--------------------------------------------------------------*/
